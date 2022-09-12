@@ -9,6 +9,8 @@
      
      Follow Us on :
      Instagram :  https://www.instagram.com/_lamsoft_/
+     LinkedIn  :  https://www.linkedin.com/company/lamsoft/?viewAsMember=true
+     Facebook  :  https://www.facebook.com/LamSoft-100220762341582/
 
 <!---
 lamsoft18/lamsoft18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
