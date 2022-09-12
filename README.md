@@ -4,8 +4,11 @@
 - 👩🏻‍💻 Here’s Our Developer Page : https://play.google.com/store/apps/dev?id=7117580312016887072 
      
      Do check out Our Apps on Google Play Store...
-- 📫 How to reach me ...
+- 📫 How to reach us ...
      Email : lamsoft18may@gmail.com
+     
+     Follow Us on :
+     Instagram :  https://www.instagram.com/_lamsoft_/
 
 <!---
 lamsoft18/lamsoft18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
